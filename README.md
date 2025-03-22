@@ -13,11 +13,17 @@ QAエンジニア。品質向上のため開発組織へのイネーブリング
 
 - [Sqripts | エンジニアリングを進化させる品質メディア](https://sqripts.com/writer/yoshikiito/)
 - [Tech Team Journal | ITエンジニアのためのWebメディア](https://ttj.paiza.jp/archives/interviewee/ito-yoshiki/)
+- [Amazon.co.jp: にしさんの教え: 日本のテストコミュニティを作った男 eBook : 「にしさんの教え」出版プロジェクト（ASTER）, 河野哲也, 鈴木順仁, 秋山浩一: Kindleストア](https://www.amazon.co.jp/dp/B0DJZVL3NH)
+ -  非アフィリエイトリンクです
 
 ## 登壇資料
 
 - [伊藤由貴（Yoshiki Ito）さんのプロフィール | ドクセル](https://www.docswell.com/user/yoshikiito)
 - [YoshikiIto (@yoshikiito) on Speaker Deck](https://speakerdeck.com/yoshikiito)
+
+## 出版
+
+- [ソフトウェアテスト技法練習帳 ～知識を経験に変える40問～：書籍案内｜技術評論社](https://gihyo.jp/book/2020/978-4-297-11061-1)
 
 
 ## 運営しているページ・サイト
