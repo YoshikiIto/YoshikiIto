@@ -14,7 +14,7 @@ QAエンジニア。品質向上のため開発組織へのイネーブリング
 - [Sqripts | エンジニアリングを進化させる品質メディア](https://sqripts.com/writer/yoshikiito/)
 - [Tech Team Journal | ITエンジニアのためのWebメディア](https://ttj.paiza.jp/archives/interviewee/ito-yoshiki/)
 - [Amazon.co.jp: にしさんの教え: 日本のテストコミュニティを作った男 eBook : 「にしさんの教え」出版プロジェクト（ASTER）, 河野哲也, 鈴木順仁, 秋山浩一: Kindleストア](https://www.amazon.co.jp/dp/B0DJZVL3NH)
- -  非アフィリエイトリンクです
+    -  非アフィリエイトリンクです
 
 ## 登壇資料
 
